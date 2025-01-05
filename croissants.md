@@ -28,7 +28,7 @@ adapted from https://www.youtube.com/watch?v=vpwY3nmLLaA&t=843s and https://cook
 |Dough Square|	20x20|	14x14
 Dough Rectangle (1st)|	40x20|	28x14
 Dough Rectangle (2nd)|	60x20|	42x14
-Final Rectangle|	43x35|	30x25
+Final Rectangle|	43x35|	21.5x35
 
 ---
 ## Steps
