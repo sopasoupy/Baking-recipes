@@ -48,8 +48,10 @@ Final Rectangle|	43x35|	21.5x35
 6. Roll dough into a 43cm * 35cm (21.5cm * 35cm for 4 croissants) rectangle, trim edges, and cut into 8 triangles. Shape each triangle into a crescent by rolling from the wide end to the tip.
 
 ### Proofing
-7. Proof croissants at RT. Chill for 20 minutes before baking.
+7. Proof croissants at RT for ~2H. Chill for 20 minutes before baking.
 
 ### Baking
 8. Preheat oven to 190°C. Brush croissants with yolk-cream mixture and bake for 20 minutes, then rotate pans and bake another 10-15 minutes until deeply browned. Cool completely.
+
+Reheat old croissants at 180°C for ~6 minutes
 
