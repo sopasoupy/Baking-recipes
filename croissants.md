@@ -35,7 +35,7 @@ Final Rectangle|	43x35|	30x25
 
 ### Détrempe (Dough)
 1. **24 Hours Before Serving:** Combine flour, sugar, salt, and yeast in a stand mixer. Add water and milk, and mix on low speed for 5 minutes until a smooth dough forms. Cover and let rest for 10 minutes.
-2. Add butter and mix on medium-low speed until smooth and stretchy (8-10 minutes). Form into a ball, make two deep slashes, and let rise at room temperature for 45-60 minutes. Refrigerate for 4-12 hours.
+2. Add butter cube by cube and mix on medium-low speed until smooth and stretchy (8-10 minutes). Form into a ball, make two deep slashes, and let rise at room temperature for 45-60 minutes. Refrigerate for 4-12 hours.
 
 ### Butter Block
 3. Flatten chilled butter into an 20cm x 20cm (14cm x 14cm for 4 croissants) square between parchment sheets. Chill until firm but pliable.
