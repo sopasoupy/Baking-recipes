@@ -45,7 +45,7 @@ Final Rectangle|	43x35|	30x25
 5. Repeat rolling and folding for a simple turn (3 layers). Chill and rest dough overnight.
 
 ### Shaping Croissants
-6. Roll dough into a 43cm * 35cm (30cm * 25cm for 4 croissants) rectangle, trim edges, and cut into 8 triangles. Shape each triangle into a crescent by rolling from the wide end to the tip.
+6. Roll dough into a 43cm * 35cm (21.5cm * 35cm for 4 croissants) rectangle, trim edges, and cut into 8 triangles. Shape each triangle into a crescent by rolling from the wide end to the tip.
 
 ### Proofing
 7. Proof croissants at RT. Chill for 20 minutes before baking.
