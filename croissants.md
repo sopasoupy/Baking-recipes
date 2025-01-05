@@ -12,8 +12,8 @@ adapted from https://www.youtube.com/watch?v=vpwY3nmLLaA&t=843s and https://cook
 |Salt                         | 12 g       | 6 g               |
 |Yeast                   | 7 g                | 3.5 g             |
 |Water (room temperature)            | 215 g      | 105 g     |
-|Whole milk (room temperature)| ½ cup / 120 g               | 60 g               |
-|Butter (chilled, cubed)| ¼ cup / 56 g                | 28 g            |
+|Whole milk (room temperature)| 120 g               | 60 g               |
+|Butter (chilled, cubed)| 56 g                | 28 g            |
 |**For the Butter Block and Assembly:**|                             |                             |
 |Butter| 340 g| 170 g |
 |Wheat flour (for rolling)| As needed                   | As needed                  |
