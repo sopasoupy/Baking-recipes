@@ -1,6 +1,6 @@
 ## Ingredients
 
-|**Ingredients**|**1 Bread**| **2 Breads**|
+|**Ingredients**|**1 Bread**| **2 Bread**|
 |-|-|-|
 |**Pre-Dough:**|||
 |Sourdough Starter|100g|100g|
